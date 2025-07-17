@@ -1,0 +1,38 @@
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\bin\Debug\LaserIntelliWeldingSystem.exe.config
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\bin\Debug\LaserIntelliWeldingSystem.exe
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\bin\Debug\LaserIntelliWeldingSystem.pdb
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.csproj.AssemblyReference.cache
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.UI.PCLPage.resources
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPClinet.resources
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.FileIO.XMLFile.XMLEditor.resources
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.FormMain.resources
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.UI.DataPage.resources
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.UI.FormLogin.resources
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.PageUI.MainPage.resources
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.PageUI.ParamPage.resources
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.Properties.Resources.resources
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPServer.resources
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.csproj.GenerateResource.cache
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.csproj.CoreCompileInputs.cache
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.exe
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.pdb
+D:\A-A-项目类\预研项目\MODG-2420 智能填丝焊接系统\软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.UI.EditPassword.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\bin\Debug\LaserIntelliWeldingSystem.exe.config
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\bin\Debug\LaserIntelliWeldingSystem.exe
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\bin\Debug\LaserIntelliWeldingSystem.pdb
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.csproj.AssemblyReference.cache
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.UI.EditPassword.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.UI.PCLPage.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPClinet.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.FileIO.XMLFile.XMLEditor.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.FormMain.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.UI.DataPage.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.UI.FormLogin.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.PageUI.MainPage.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.PageUI.ParamPage.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.Properties.Resources.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPServer.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.csproj.GenerateResource.cache
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.csproj.CoreCompileInputs.cache
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.exe
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserIntelliWeldingSystem\obj\Debug\LaserIntelliWeldingSystem.pdb

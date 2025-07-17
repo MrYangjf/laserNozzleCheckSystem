@@ -1,0 +1,709 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LaserCheckSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\workflow\\stationprocess\\checkstationprcocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\workflow\\stationprocess\\checkstationprcocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\siemenss7plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\siemenss7plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\visionsystem\\visionmasterfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\visionsystem\\visionmasterfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\workflow\\stationprocess\\machinecontrolwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\workflow\\stationprocess\\machinecontrolwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|d:\\laserchecksystem\\lasercenterchecksystem\\communication\\tcpipcomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\communication\\tcpipcomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\siemenss7plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\siemenss7plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\camerasettingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\camerasettingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\camerasettingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\camerasettingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\datapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\datapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\datapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\datapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\communication\\systemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\communication\\systemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\sqlitedb\\productdatabasemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\sqlitedb\\productdatabasemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\sqlitedb\\sqlitedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\sqlitedb\\sqlitedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\sqlitedb\\authmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\sqlitedb\\authmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\parampage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\parampage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yangjingfeng\\AppData\\Local\\Temp\\.vsdbgsrc\\2e21d4369f2771b34c3488f6d20042115aa377e43aa3949dc8a877c55356b86e\\Number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\tcpclinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\tcpclinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\tcpclinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\tcpclinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\communication\\globalcommdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\communication\\globalcommdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\siemenss7plc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\siemenss7plc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\mainpage.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\mainpage.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yangjingfeng\\AppData\\Local\\Temp\\.vsdbgsrc\\b26602a43b7c27a7aac310aa1a2fa5bac1546d839193d4c4b331dec9ee747396\\TreeNodeCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\siemenss7plc.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\siemenss7plc.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\fileio\\inifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\fileio\\inifile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\parampage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\parampage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\workflow\\stationprocess\\processobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\workflow\\stationprocess\\processobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\communication\\lang_en_us.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\communication\\lang_en_us.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\fileio\\xmlfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\fileio\\xmlfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\datapage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\datapage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\editpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\editpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\xmleditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\xmleditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yangjingfeng\\AppData\\Local\\Temp\\.vsdbgsrc\\a3f905c815f0fcfcb00bc753ea9d3a7b73798543883a5bf04b378e48794f397f\\Boolean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|D:\\LaserCheckSystem\\lasercenterchecksystem\\ui\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEDB4FB-DBD9-40B7-9087-F3052F82512E}|LaserCentercheckSystem\\LaserCentercheckSystem.csproj|solutionrelative:lasercenterchecksystem\\ui\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckStationPrcocess.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Workflow\\StationProcess\\CheckStationPrcocess.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\Workflow\\StationProcess\\CheckStationPrcocess.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Workflow\\StationProcess\\CheckStationPrcocess.cs*",
+              "RelativeToolTip": "LaserCentercheckSystem\\Workflow\\StationProcess\\CheckStationPrcocess.cs*",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAWwKIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:46:22.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MachineControlWork.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Workflow\\StationProcess\\MachineControlWork.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\Workflow\\StationProcess\\MachineControlWork.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Workflow\\StationProcess\\MachineControlWork.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\Workflow\\StationProcess\\MachineControlWork.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAvwC4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:25:16.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\MainPage.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\MainPage.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\MainPage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\MainPage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T02:14:43.571Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VisionMasterFunc.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\VisionSystem\\VisionMasterFunc.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\VisionSystem\\VisionMasterFunc.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\VisionSystem\\VisionMasterFunc.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\VisionSystem\\VisionMasterFunc.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAWwBUBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T02:18:54.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SiemensS7PLC.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\SiemensS7PLC.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\SiemensS7PLC.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\SiemensS7PLC.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\SiemensS7PLC.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:37:33.174Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\MainPage.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\MainPage.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\MainPage.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\MainPage.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAEwMAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T02:07:54.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CameraSettingPage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\CameraSettingPage.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\CameraSettingPage.cs",
+              "ToolTip": "D:\\A-A-\u9879\u76EE\u7C7B\\03_\u7814\u53D1\u9879\u76EE\\MRDF-2506 \u6FC0\u5149\u5668\u55B7\u5634\u68C0\u6D4B\u8BBE\u5907\\\u8F6F\u4EF6\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\CameraSettingPage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\A-A-\u9879\u76EE\u7C7B\\03_\u7814\u53D1\u9879\u76EE\\MRDF-2506 \u6FC0\u5149\u5668\u55B7\u5634\u68C0\u6D4B\u8BBE\u5907\\\u8F6F\u4EF6\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\CameraSettingPage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:02:28.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TCPIPComm.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Communication\\TCPIPComm.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\Communication\\TCPIPComm.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Communication\\TCPIPComm.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\Communication\\TCPIPComm.cs",
+              "ViewState": "AgIAANoBAAAAAAAAAAAMwPYBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:01:41.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\Program.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Program.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:34:21.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\FormMain.Designer.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\FormMain.Designer.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\FormMain.Designer.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAiwP4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T02:00:22.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\FormMain.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\FormMain.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\FormMain.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\FormMain.cs",
+              "ViewState": "AQIAAD8BAAAAAAAAAAAAAE4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:30:43.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SiemensS7PLC.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\SiemensS7PLC.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\SiemensS7PLC.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\SiemensS7PLC.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\SiemensS7PLC.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAMwGwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:37:36.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\FormMain.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\FormMain.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\FormMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LaserCentercheckSystem\\FormMain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:14:42.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraSettingPage.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\CameraSettingPage.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\CameraSettingPage.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\CameraSettingPage.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\CameraSettingPage.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAApwKgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:02:35.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SystemStatus.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Communication\\SystemStatus.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\Communication\\SystemStatus.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Communication\\SystemStatus.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\Communication\\SystemStatus.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAIA2wOYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:01:54.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataPage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\DataPage.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\DataPage.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\DataPage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\DataPage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:42:28.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataPage.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\DataPage.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\DataPage.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\DataPage.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\DataPage.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAgwJAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:41:57.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDatabaseManage.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\SQLiteDB\\ProductDatabaseManage.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\SQLiteDB\\ProductDatabaseManage.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\SQLiteDB\\ProductDatabaseManage.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\SQLiteDB\\ProductDatabaseManage.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAEwDwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:48:54.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainPage.Designer.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\MainPage.Designer.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\MainPage.Designer.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\MainPage.Designer.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\MainPage.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:29:07.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthManage.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\SQLiteDB\\AuthManage.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\SQLiteDB\\AuthManage.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\SQLiteDB\\AuthManage.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\SQLiteDB\\AuthManage.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwCoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:48:09.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TreeNodeCollection.cs",
+              "DocumentMoniker": "C:\\Users\\yangjingfeng\\AppData\\Local\\Temp\\.vsdbgsrc\\b26602a43b7c27a7aac310aa1a2fa5bac1546d839193d4c4b331dec9ee747396\\TreeNodeCollection.cs",
+              "ToolTip": "C:\\Users\\yangjingfeng\\AppData\\Local\\Temp\\.vsdbgsrc\\b26602a43b7c27a7aac310aa1a2fa5bac1546d839193d4c4b331dec9ee747396\\TreeNodeCollection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:50:27.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Boolean.cs",
+              "DocumentMoniker": "C:\\Users\\yangjingfeng\\AppData\\Local\\Temp\\.vsdbgsrc\\a3f905c815f0fcfcb00bc753ea9d3a7b73798543883a5bf04b378e48794f397f\\Boolean.cs",
+              "ToolTip": "C:\\Users\\yangjingfeng\\AppData\\Local\\Temp\\.vsdbgsrc\\a3f905c815f0fcfcb00bc753ea9d3a7b73798543883a5bf04b378e48794f397f\\Boolean.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T05:55:27.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Number.cs",
+              "DocumentMoniker": "C:\\Users\\yangjingfeng\\AppData\\Local\\Temp\\.vsdbgsrc\\2e21d4369f2771b34c3488f6d20042115aa377e43aa3949dc8a877c55356b86e\\Number.cs",
+              "ToolTip": "C:\\Users\\yangjingfeng\\AppData\\Local\\Temp\\.vsdbgsrc\\2e21d4369f2771b34c3488f6d20042115aa377e43aa3949dc8a877c55356b86e\\Number.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:11:58.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SQLiteDataBase.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\SQLiteDB\\SQLiteDataBase.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\SQLiteDB\\SQLiteDataBase.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\SQLiteDB\\SQLiteDataBase.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\SQLiteDB\\SQLiteDataBase.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:48:01.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ParamPage.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\ParamPage.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\ParamPage.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\ParamPage.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\ParamPage.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:08:15.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormLogin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\FormLogin.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\FormLogin.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\FormLogin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\FormLogin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:03:03.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TCPServer.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\TCPServer.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\TCPServer.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\TCPServer.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\TCPServer.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:12:49.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TCPClinet.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\TCPClinet.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\TCPClinet.cs",
+              "ToolTip": "D:\\A-A-\u9879\u76EE\u7C7B\\03_\u9884\u7814\u9879\u76EE\\MRDF-2506 \u6FC0\u5149\u5668\u55B7\u5634\u68C0\u6D4B\u8BBE\u5907\\\u8F6F\u4EF6\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\TCPClinet.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\A-A-\u9879\u76EE\u7C7B\\03_\u9884\u7814\u9879\u76EE\\MRDF-2506 \u6FC0\u5149\u5668\u55B7\u5634\u68C0\u6D4B\u8BBE\u5907\\\u8F6F\u4EF6\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\TCPClinet.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:07:25.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TCPServer.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\TCPServer.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\TCPServer.cs",
+              "ToolTip": "D:\\A-A-\u9879\u76EE\u7C7B\\03_\u9884\u7814\u9879\u76EE\\MRDF-2506 \u6FC0\u5149\u5668\u55B7\u5634\u68C0\u6D4B\u8BBE\u5907\\\u8F6F\u4EF6\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\TCPServer.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\A-A-\u9879\u76EE\u7C7B\\03_\u9884\u7814\u9879\u76EE\\MRDF-2506 \u6FC0\u5149\u5668\u55B7\u5634\u68C0\u6D4B\u8BBE\u5907\\\u8F6F\u4EF6\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\TCPServer.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:07:24.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TCPClinet.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\TCPClinet.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\TCPClinet.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\TCPClinet.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\TCPClinet.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:13:29.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GlobalCommData.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Communication\\GlobalCommData.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\Communication\\GlobalCommData.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Communication\\GlobalCommData.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\Communication\\GlobalCommData.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAADwv44AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T02:06:38.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SiemensS7PLC.Designer.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\SiemensS7PLC.Designer.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\SiemensS7PLC.Designer.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\SiemensS7PLC.Designer.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\SiemensS7PLC.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:25:56.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\FormLogin.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\FormLogin.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\FormLogin.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\FormLogin.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:10:55.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainPage.resx",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\MainPage.resx",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\MainPage.resx",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\MainPage.resx",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\MainPage.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-05T07:47:15.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SiemensS7PLC.resx",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\SiemensS7PLC.resx",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\SiemensS7PLC.resx",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\SiemensS7PLC.resx",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\SiemensS7PLC.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-04T09:25:56.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IniFile.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\FileIO\\IniFile.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\FileIO\\IniFile.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\FileIO\\IniFile.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\FileIO\\IniFile.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA1wHoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:55:54.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ParamPage.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\ParamPage.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\ParamPage.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\ParamPage.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\ParamPage.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:24:02.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProcessObj.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Workflow\\StationProcess\\ProcessObj.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\Workflow\\StationProcess\\ProcessObj.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Workflow\\StationProcess\\ProcessObj.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\Workflow\\StationProcess\\ProcessObj.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwCYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:44:38.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Lang_en_US.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Communication\\Lang_en_US.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\Communication\\Lang_en_US.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\Communication\\Lang_en_US.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\Communication\\Lang_en_US.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:30:10.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "XMLfile.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\FileIO\\XMLfile.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\FileIO\\XMLfile.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\FileIO\\XMLfile.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\FileIO\\XMLfile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:02:50.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DataPage.Designer.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\DataPage.Designer.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\DataPage.Designer.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\DataPage.Designer.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\DataPage.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:37:45.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EditPassword.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\EditPassword.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\EditPassword.cs",
+              "ToolTip": "D:\\A-A-\u9879\u76EE\u7C7B\\02_\u751F\u4EA7\u9879\u76EE\\MBTE-2412 W68 Post Casting Laser Triming\\01_\u5BF9\u4E2D\u9879\u76EE\\03_\u5BF9\u4E2D\u9879\u76EE\u8F6F\u4EF6\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\EditPassword.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\A-A-\u9879\u76EE\u7C7B\\02_\u751F\u4EA7\u9879\u76EE\\MBTE-2412 W68 Post Casting Laser Triming\\01_\u5BF9\u4E2D\u9879\u76EE\\03_\u5BF9\u4E2D\u9879\u76EE\u8F6F\u4EF6\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\EditPassword.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:50:45.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "XMLEditor.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\XMLEditor.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\XMLEditor.cs",
+              "ToolTip": "D:\\A-A-\u9879\u76EE\u7C7B\\02_\u751F\u4EA7\u9879\u76EE\\MBTE-2412 W68 Post Casting Laser Triming\\01_\u5BF9\u4E2D\u9879\u76EE\\03_\u5BF9\u4E2D\u9879\u76EE\u8F6F\u4EF6\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\XMLEditor.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\A-A-\u9879\u76EE\u7C7B\\02_\u751F\u4EA7\u9879\u76EE\\MBTE-2412 W68 Post Casting Laser Triming\\01_\u5BF9\u4E2D\u9879\u76EE\\03_\u5BF9\u4E2D\u9879\u76EE\u8F6F\u4EF6\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\XMLEditor.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:10:39.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "LaserCentercheckSystem\\UI\\FormLogin.Designer.cs",
+              "ToolTip": "D:\\LaserCheckSystem\\LaserCentercheckSystem\\UI\\FormLogin.Designer.cs",
+              "RelativeToolTip": "LaserCentercheckSystem\\UI\\FormLogin.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:03:13.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\bin\Debug\LaserIntelliWeldingSystem.exe.config
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\bin\Debug\LaserIntelliWeldingSystem.exe
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\bin\Debug\LaserIntelliWeldingSystem.pdb
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.AssemblyReference.cache
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.EditPassword.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPClinet.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FileIO.XMLFile.XMLEditor.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FormMain.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.DataPage.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.FormLogin.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.PageUI.MainPage.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.PageUI.ParamPage.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.Properties.Resources.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPServer.resources
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.GenerateResource.cache
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.CoreCompileInputs.cache
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.exe
+D:\A-A-项目类\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.pdb
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\bin\Debug\LaserIntelliWeldingSystem.exe.config
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\bin\Debug\LaserIntelliWeldingSystem.exe
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\bin\Debug\LaserIntelliWeldingSystem.pdb
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.AssemblyReference.cache
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.EditPassword.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPClinet.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FileIO.XMLFile.XMLEditor.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FormMain.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.DataPage.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.FormLogin.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.PageUI.MainPage.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.PageUI.ParamPage.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.Properties.Resources.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPServer.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.GenerateResource.cache
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.CoreCompileInputs.cache
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.exe
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.pdb
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\bin\Debug\VmMainViewControlWinform.dll
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserCen.9342C8B2.Up2Date
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\bin\Debug\VmParamsRenderControlWinform.dll
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\bin\Debug\VM.ComDataTrans.dll
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserIntelliWeldingSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.CameraSettingPage.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserIntelliWeldingSystem.exe.config
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserIntelliWeldingSystem.exe
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserIntelliWeldingSystem.pdb
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VmMainViewControlWinform.dll
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VmParamsRenderControlWinform.dll
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VM.ComDataTrans.dll
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.AssemblyReference.cache
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.CameraSettingPage.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.EditPassword.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPClinet.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FileIO.XMLFile.XMLEditor.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FormMain.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.DataPage.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.FormLogin.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.PageUI.MainPage.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.PageUI.ParamPage.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.Properties.Resources.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPServer.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.GenerateResource.cache
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.CoreCompileInputs.cache
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCen.9342C8B2.Up2Date
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.exe
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.pdb
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\en-US\LaserIntelliWeldingSystem.resources.dll
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.DataPage.en-US.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\en-US\LaserIntelliWeldingSystem.resources.dll
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.SiemensS7PLC.resources
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\System.Buffers.dll
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\System.Memory.dll
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\System.Buffers.xml
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\System.Memory.xml
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\A-A-项目类\02_生产项目\MBTE-2412 W68 Post Casting Laser Triming\01_对中项目\03_对中项目软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.AssemblyReference.cache
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.CameraSettingPage.resources
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.EditPassword.resources
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.SiemensS7PLC.resources
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPClinet.resources
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FileIO.XMLFile.XMLEditor.resources
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FormMain.resources
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.DataPage.resources
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.FormLogin.resources
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.Properties.Resources.resources
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPServer.resources
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.GenerateResource.cache
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.CoreCompileInputs.cache
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCen.9342C8B2.Up2Date
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.MainPage.resources
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.ParamPage.resources
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VmMainViewControlWinform.dll
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VmParamsRenderControlWinform.dll
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VM.ComDataTrans.dll
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.AssemblyReference.cache
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.CameraSettingPage.resources
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.EditPassword.resources
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.SiemensS7PLC.resources
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPClinet.resources
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FileIO.XMLFile.XMLEditor.resources
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FormMain.resources
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.DataPage.resources
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.FormLogin.resources
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.MainPage.resources
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.ParamPage.resources
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.Properties.Resources.resources
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPServer.resources
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.GenerateResource.cache
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.CoreCompileInputs.cache
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCen.9342C8B2.Up2Date
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.exe.config
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.exe
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.pdb
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.exe
+D:\A-A-项目类\03_预研项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.pdb
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.exe.config
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.exe
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.pdb
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VmMainViewControlWinform.dll
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VmParamsRenderControlWinform.dll
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VM.ComDataTrans.dll
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.AssemblyReference.cache
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.CameraSettingPage.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.EditPassword.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.SiemensS7PLC.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPClinet.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FileIO.XMLFile.XMLEditor.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FormMain.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.DataPage.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.FormLogin.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.MainPage.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.ParamPage.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.Properties.Resources.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPServer.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.GenerateResource.cache
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.CoreCompileInputs.cache
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCen.9342C8B2.Up2Date
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.exe
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.pdb
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.SuggestedBindingRedirects.cache
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.exe.config
+D:\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.exe.config
+D:\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.exe
+D:\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.pdb
+D:\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.SuggestedBindingRedirects.cache
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.exe.config
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.exe
+D:\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.pdb
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.exe.config
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.exe
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.pdb
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VmMainViewControlWinform.dll
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VmParamsRenderControlWinform.dll
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VM.ComDataTrans.dll
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.AssemblyReference.cache
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.SuggestedBindingRedirects.cache
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.exe.config
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.CameraSettingPage.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.EditPassword.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.SiemensS7PLC.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPClinet.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FileIO.XMLFile.XMLEditor.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FormMain.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.DataPage.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.FormLogin.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.MainPage.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.ParamPage.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.Properties.Resources.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPServer.resources
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.GenerateResource.cache
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.CoreCompileInputs.cache
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCen.9342C8B2.Up2Date
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.exe
+D:\A-A-项目类\03_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem0320-2\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.pdb
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.exe.config
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.exe
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.pdb
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.AssemblyReference.cache
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.SuggestedBindingRedirects.cache
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.exe.config
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.CameraSettingPage.resources
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.EditPassword.resources
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.SiemensS7PLC.resources
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPClinet.resources
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FileIO.XMLFile.XMLEditor.resources
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FormMain.resources
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.DataPage.resources
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.FormLogin.resources
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.MainPage.resources
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.ParamPage.resources
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.Properties.Resources.resources
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPServer.resources
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.GenerateResource.cache
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.CoreCompileInputs.cache
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCen.9342C8B2.Up2Date
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.exe
+D:\Backup\20250321\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.pdb
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.exe.config
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.exe
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\LaserNozzleCheckSystem.pdb
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VmMainViewControlWinform.dll
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VmParamsRenderControlWinform.dll
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\VM.ComDataTrans.dll
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.AssemblyReference.cache
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.SuggestedBindingRedirects.cache
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.exe.config
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.CameraSettingPage.resources
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.EditPassword.resources
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.SiemensS7PLC.resources
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPClinet.resources
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FileIO.XMLFile.XMLEditor.resources
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.FormMain.resources
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.DataPage.resources
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.FormLogin.resources
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.MainPage.resources
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.ParamPage.resources
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.Properties.Resources.resources
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserIntelliWeldingSystem.UI.TCPServer.resources
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.GenerateResource.cache
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCentercheckSystem.csproj.CoreCompileInputs.cache
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserCen.9342C8B2.Up2Date
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.exe
+D:\A-A-项目类\04_研发项目\MRDF-2506 激光器喷嘴检测设备\软件\LaserCheckSystem\LaserCentercheckSystem\obj\Debug\LaserNozzleCheckSystem.pdb

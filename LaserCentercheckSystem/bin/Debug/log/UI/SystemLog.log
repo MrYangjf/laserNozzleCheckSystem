@@ -1,0 +1,64 @@
+﻿2025-03-24 17:50:42 INFO  Add Module: Flow2.Condition Detection1
+2025-03-24 17:50:42 INFO  Add Connector: Flow2.Segment,Flow2.Condition Detection1
+2025-03-24 17:50:42 INFO  Add Connector: Flow2.Condition Detection1,Flow2.DL Image Segmentation CPU1
+2025-03-24 17:51:54 INFO  Delete Module: Flow2.Condition Detection1
+2025-03-24 17:51:54 INFO  Add Connector: Flow2.Segment,Flow2.DL Image Segmentation CPU1
+2025-03-24 17:52:05 INFO  Add Module: Flow2.Condition-Branch1
+2025-03-24 17:52:11 INFO  Add Connector: Flow2.Segment,Flow2.Condition-Branch1
+2025-03-24 17:52:11 INFO  Add Connector: Flow2.Condition-Branch1,Flow2.DL Image Segmentation CPU1
+2025-03-24 17:52:38 INFO  Add Module: Flow2.Shell1
+2025-03-24 17:52:43 INFO  Add Connector: Flow2.Condition-Branch1,Flow2.Shell1
+2025-03-24 17:52:53 INFO  Add Connector: Flow2.Shell1,Flow2.Image Output1
+2025-03-24 17:53:23 INFO  Delete Module: Flow2.Shell1
+2025-03-24 17:53:23 INFO  Add Connector: Flow2.Condition-Branch1,Flow2.Image Output1
+2025-03-24 17:53:32 INFO  Add Module: Flow2.Format2
+2025-03-24 17:53:39 INFO  Add Connector: Flow2.Condition-Branch1,Flow2.Format2
+2025-03-24 17:53:39 INFO  Add Connector: Flow2.Format2,Flow2.Image Output1
+2025-03-24 17:53:53 INFO  Delete Connector: Format2, Image Output1
+2025-03-24 17:53:55 INFO  Add Connector: Flow2.Format2,Flow2.Image Output1
+2025-03-24 17:57:01 INFO  Add Module: Flow2.Branch String1
+2025-03-24 17:57:09 INFO  Delete Module: Flow2.Branch String1
+2025-03-24 17:57:16 INFO  Add Module: Flow2.Branch1
+2025-03-24 17:57:19 INFO  Delete Module: Flow2.Condition-Branch1
+2025-03-24 17:57:19 INFO  Add Connector: Flow2.Segment,Flow2.DL Image Segmentation CPU1
+2025-03-24 17:57:19 INFO  Add Connector: Flow2.Segment,Flow2.Format2
+2025-03-24 17:57:27 INFO  Add Connector: Flow2.Segment,Flow2.Branch1
+2025-03-24 17:57:27 INFO  Add Connector: Flow2.Branch1,Flow2.Format2
+2025-03-24 17:57:34 INFO  Delete Connector: Segment, DL Image Segmentation CPU1
+2025-03-24 17:57:41 INFO  Add Connector: Flow2.Branch1,Flow2.DL Image Segmentation CPU1
+2025-03-24 18:01:00 INFO  Add Module: Flow1.Branch1
+2025-03-24 18:01:09 INFO  Add Connector: Flow1.Contour Match1,Flow1.Branch1
+2025-03-24 18:01:18 INFO  Add Module: Flow1.Format2
+2025-03-24 18:01:21 INFO  Add Connector: Flow1.Branch1,Flow1.Format2
+2025-03-24 18:01:24 INFO  Add Connector: Flow1.Format2,Flow1.Image Output1
+2025-03-24 18:02:13 INFO  Delete Connector: Color Transformation1, Contour Match1
+2025-03-24 18:02:15 INFO  Delete Connector: Contour Match1, Branch1
+2025-03-24 18:02:24 INFO  Add Connector: Flow1.Color Transformation1,Flow1.Branch1
+2025-03-24 18:02:40 INFO  Add Connector: Flow1.Branch1,Flow1.Contour Match1
+2025-03-24 18:03:18 INFO  Delete Connector: Color Transformation1, Branch1
+2025-03-24 18:03:20 INFO  Delete Connector: Branch1, Contour Match1
+2025-03-24 18:03:31 INFO  Add Connector: Flow1.Color Transformation1,Flow1.Branch1
+2025-03-24 18:03:45 INFO  Add Connector: Flow1.Branch1,Flow1.Contour Match1
+2025-03-24 18:03:52 INFO  Delete Connector: Branch1, Contour Match1
+2025-03-24 18:03:55 INFO  Delete Connector: Color Transformation1, Branch1
+2025-03-24 18:04:07 INFO  Add Connector: Flow1.Color Transformation1,Flow1.Contour Match1
+2025-03-24 18:04:17 INFO  Add Connector: Flow1.Contour Match1,Flow1.Branch1
+2025-03-24 18:04:20 INFO  Delete Connector: Contour Match1, Position Fixture1
+2025-03-24 18:04:26 INFO  Add Connector: Flow1.Branch1,Flow1.Position Fixture1
+2025-03-25 10:55:33 INFO  Add Module: Flow1.Branch2
+2025-03-25 10:55:33 INFO  Add Connector: Flow1.Position Fixture1,Flow1.Branch2
+2025-03-25 10:55:33 INFO  Add Connector: Flow1.Branch2,Flow1.Circle Search1
+2025-03-25 10:55:50 INFO  Delete Module: Flow1.Branch2
+2025-03-25 10:55:50 INFO  Add Connector: Flow1.Position Fixture1,Flow1.Circle Search1
+2025-03-25 10:56:12 INFO  Add Module: Flow1.Branch2
+2025-03-25 10:56:12 INFO  Add Connector: Flow1.Blob Analysis1,Flow1.Branch2
+2025-03-25 10:56:12 INFO  Add Connector: Flow1.Branch2,Flow1.P2P Measurement1
+2025-03-25 10:56:57 INFO  Add Module: Flow1.Format3
+2025-03-25 10:57:00 INFO  Add Connector: Flow1.Branch2,Flow1.Format3
+2025-03-25 10:57:05 INFO  Add Connector: Flow1.Format3,Flow1.Image Output1
+2025-03-25 10:58:13 INFO  Add Module: Flow1.Branch3
+2025-03-25 10:58:13 INFO  Add Connector: Flow1.Circle Search1,Flow1.Branch3
+2025-03-25 10:58:13 INFO  Add Connector: Flow1.Branch3,Flow1.Blob Analysis1
+2025-03-25 10:59:14 INFO  Add Module: Flow1.Format4
+2025-03-25 10:59:16 INFO  Add Connector: Flow1.Branch3,Flow1.Format4
+2025-03-25 10:59:19 INFO  Add Connector: Flow1.Format4,Flow1.Image Output1
